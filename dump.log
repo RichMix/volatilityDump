@@ -1,3 +1,5 @@
+./vol.py -f ../memdump.mem windows.envars.Envars
+
 dump.log
 
 Progress:   99.99               Reading Symbol layer                                            Progress:  100.00               PDB scanning finished                                                                                              
